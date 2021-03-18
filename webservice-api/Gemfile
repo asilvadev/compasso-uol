@@ -1,0 +1,5 @@
+source "http://rubygems.org"
+
+gem "allure-cucumber", "2.13.8"
+gem "cucumber", "~> 5.3"
+gem "httparty", "0.18.1"
